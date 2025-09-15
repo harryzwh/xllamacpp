@@ -1,4 +1,4 @@
-name: Build Wheels (CUDA & HIP)
+name: Build Wheels cu128 py312
 
 on:
   push:
